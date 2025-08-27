@@ -4,3 +4,4 @@ third test
 forth test with ngrok
 fifth testing the prometheus setup to see if it scrapps
 test 5.2.2.2
+testing graphana
